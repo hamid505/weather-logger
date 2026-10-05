@@ -17,4 +17,4 @@ def summarize(temps):
     }
 
 
-print(summarize(temps))
+print("Temperature Summary:")
